@@ -64,7 +64,7 @@ use("practiceDB");
 
 // wrong approach
 // db.products.find({
-//   'reviews.user': "Rahul",   // it worl like or for array
+//   'reviews.user': "Rahul",   // it work like or for array
 //   'reviews.rating' : 5
 // })
 
